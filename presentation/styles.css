@@ -1,0 +1,60 @@
+body {
+    background-color: #00517C;
+}
+presentation {
+    display: block;
+    width: 100%;    
+    background-color: #00517C;    
+}
+
+presentation img {
+    margin: auto;
+    display: block;
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+footer {
+    display: block;
+    position: fixed;
+    height: 100px;
+    background-color: transparent;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    opacity: 0.3;    
+    transition: 0.3s;
+}
+
+footer:hover {
+    background-color: azure;    
+}
+
+footer:hover button-panel {
+    visibility: visible;    
+}
+
+button-panel {
+    margin: 0 auto;
+    width: 572px;
+    display: block;
+    visibility: hidden;    
+}
+
+.button {
+    font-size: 80px;
+    display: inline-block;
+    cursor: pointer;
+    user-select: none;
+}
+
+.button:hover {
+    color: blue;
+}
+
+#button-next {
+    float: right;
+}

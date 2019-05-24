@@ -1,0 +1,30 @@
+main {
+	margin: 40px;
+}
+
+.square {
+	border-radius: 9px;
+	transform: rotate(45deg);
+	margin-right: 21px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.blue {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+.green {
+	width: 80px;
+	height: 80px;
+	background-color: green;
+	margin-left: 10px;
+}
+
+.red {
+	width: 50px;
+	height: 50px;
+	background-color: red;
+}

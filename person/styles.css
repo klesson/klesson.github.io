@@ -1,0 +1,50 @@
+.container__card__photo {
+    width: 60px;
+    height: 60px;
+    display: inline-block;    
+}
+
+.container__card__photo img {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+}
+
+.container__card__info {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 8px;
+}
+
+.container__card__info__name {
+    font-size: 20px;
+    font-weight: bold;
+    color: blueviolet;
+    margin-top: 8px;
+}
+
+.container__card__info__role {
+    margin-top: 4px;
+    color: gray;
+}
+
+.container__auth,
+.container__card {
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 342px;
+    height: 62px;
+}
+
+.container__auth {
+    width: 200px;
+}
+
+.hidden {
+    visibility: hidden;
+}

@@ -1,0 +1,16 @@
+.pagination {
+	display: flex;
+}
+
+.button {
+	background-color: #3D3D3D;
+    color: white;
+    padding: 3px 7px;
+    margin-right: 4px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.button.selected {
+	background-color: #FF6C00;
+}
