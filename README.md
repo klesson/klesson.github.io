@@ -9,3 +9,6 @@
 - [Паджинация](/pagination/pagination.html)
 - [Карточка сотрудника](/person/simple.html)
 - [Квадраты](/squares/squares.html)
+
+# Презентация
+[Презентация](https://docs.google.com/presentation/d/1PIAm4r4LcbSIoiKDAeydv1MKnXYK8fMdr3IwRyhI1II/edit?usp=sharing)
