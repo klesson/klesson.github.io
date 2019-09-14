@@ -12,5 +12,5 @@
 
 # Презентация
 
-[Финальная презентация](https://docs.google.com/presentation/d/1PIAm4r4LcbSIoiKDAeydv1MKnXYK8fMdr3IwRyhI1II/edit?usp=sharing)
-[Первое занятие](https://docs.google.com/presentation/d/1r_HVdF53hbWSI_20kI8GlfQLP7u_cxM0imTvwS5e7aY/edit?usp=sharing)
+- [Финальная презентация](https://docs.google.com/presentation/d/1PIAm4r4LcbSIoiKDAeydv1MKnXYK8fMdr3IwRyhI1II/edit?usp=sharing)
+- [Первое занятие](https://docs.google.com/presentation/d/1r_HVdF53hbWSI_20kI8GlfQLP7u_cxM0imTvwS5e7aY/edit?usp=sharing)
