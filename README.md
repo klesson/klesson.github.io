@@ -14,3 +14,5 @@
 
 - [Финальная презентация](https://docs.google.com/presentation/d/1PIAm4r4LcbSIoiKDAeydv1MKnXYK8fMdr3IwRyhI1II/edit?usp=sharing)
 - [Первое занятие](https://docs.google.com/presentation/d/1r_HVdF53hbWSI_20kI8GlfQLP7u_cxM0imTvwS5e7aY/edit?usp=sharing)
+- [Правила хорошей презентации](https://docs.google.com/presentation/d/1rfB47VBAWPIOmbuge5NdHWesmxxqEAEenAkIVk1P4DY/edit?usp=sharing)
+- [Пародия на презентации](https://youtu.be/r5MhC_fhqEg)
