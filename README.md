@@ -1,3 +1,6 @@
+# Создание сайтов. Основы
+- [Домашние животные. Версия 1.](/pets/ver1)
+
 # web-mastering
 - [Презентация](/presentation/index.html)
 - [bootstrap](/bootstrap/bootstrap.html)
