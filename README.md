@@ -1,6 +1,7 @@
 # Создание сайтов. Основы
 - [Занятие 1. Презентация](https://docs.google.com/presentation/d/1r_HVdF53hbWSI_20kI8GlfQLP7u_cxM0imTvwS5e7aY/edit?usp=sharing)
 - [Занятие 2. Презентация](https://docs.google.com/presentation/d/1z_UhzT1hdhvn9ZuFt2s1yqkd9UXCZAj55h-kPjqWNM8/edit?usp=sharing)
+- [Занятие 5. Разметка страницы. Презентация](https://docs.google.com/presentation/d/1L5Z-tYJsQg7BK78zMy4wwyr_7AsqbYJlpvePsBt0ieY/edit?usp=sharing)
 - [Домашние животные. Версия 1. Кошка](/pets/ver1/cat.html)
 - [Домашние животные. Версия 1. Собака](/pets/ver1/dog.html)
 
